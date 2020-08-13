@@ -7,3 +7,5 @@ This site will be a mock up of what a news webpage would look like. Formatting t
 
 ## How to use the site?
 
+1. Start project by creating the folders (tree) and the files (limbs)- including html, css , images and js files.
+2. 
