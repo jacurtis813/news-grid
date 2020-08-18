@@ -12,4 +12,6 @@ This site will be a mock up of what a news webpage would look like. Formatting t
 3. Set up all remaining folders and files that will be needed to support all the design content.
 4. Continue the project build reset the set up and the format for the html files.
 5. Having issues with the favicon shortcut. Delete all ico and png files. Reset the html and css files.
-6. 
+6. Clean up all html files to begin the actual format for the project. Perform favicon later.
+7. Set up the format for the first html webpage, the landing page for the overall site. This will be set using grid format.
+8. 
