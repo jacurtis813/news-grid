@@ -16,4 +16,6 @@ This site will be a mock up of what a news webpage would look like. Formatting t
 7. Set up the format for the first html webpage, the landing page for the overall site. This will be set using grid format.
 8. Set the navbar. With the logo set in the nav. Set the social links for the news-grid site. 
 9. Test and run the code that we have created. Check that all code is working as designed.
-10. 
+10. Complete the base structure for the html file. Format the html file properly.
+11. Begin creating the css styles for the first/ landing page- index html. Start with the core styling.
+12. 
