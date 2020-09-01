@@ -24,3 +24,4 @@ ________________________________________________________________________________
 1. Short break while attending full time classes on campus, with HCC to acquire my Computer Science Degree. 
 2. Pick up the project build where we left off in the showcase and mock up landing page with secondary pages linked to the landing page. 
 3. Begin with, continue creating the css styles for the landing page. 
+4. Continue the css styling for the main navigation within the ladning page. Save all changes. Test that the code is working as designed.
