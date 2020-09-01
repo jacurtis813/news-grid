@@ -19,4 +19,8 @@ This site will be a mock up of what a news webpage would look like. Formatting t
 10. Complete the base structure for the html file. Format the html file properly.
 11. Begin creating the css styles for the first/ landing page- index html. Start with the core styling.
 12. Begin creating the styling for the navigation menu of the landing page, using the created variables.
-13. 
+______________________________________________________________________________________________
+
+1. Short break while attending full time classes on campus, with HCC to acquire my Computer Science Degree. 
+2. Pick up the project build where we left off in the showcase and mock up landing page with secondary pages linked to the landing page. 
+3. Begin with, continue creating the css styles for the landing page. 
