@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.3;
 }
 
-/*Utility*/
+/*Utility Styling*/
 .container {
     max-width: var(--max-width);
     margin: auto;
@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
     overflow: hidden;
 }
 
-/*Navigation*/
+/*Navigation Styling*/
 #main-nav {
     background: #fff;
     position: -webkit-sticky;
@@ -102,4 +102,13 @@ h1, h2, h3, h4, h5, h6 {
     color: #777;
     margin-right: .5rem;
 }
+/*--------------------------------*/
 
+/*Showcase Styling*/
+#showcase {
+    color: #fff;
+    background: #333;
+    padding: 2rem;
+    position: relative;
+}
+/*--------------------------------*/
