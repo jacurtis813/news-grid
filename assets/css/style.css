@@ -43,6 +43,8 @@ h1, h2, h3, h4, h5, h6 {
     margin: .55rem;
     line-height: 1.3;
 }
+/*-------------------------------*/
+
 
 /*Utility Styling*/
 .container {
@@ -51,6 +53,30 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0 2rem;
     overflow: hidden;
 }
+
+.category {
+    display: inline-block;
+    color: #fff;
+    font-size: 0.55rem;
+    text-transform: uppercase;
+    padding: 0.4rem 0.6rem;
+    border-radius: 15px;
+    margin-bottom: 0.5rem;
+}
+
+.category-sports {
+    background: var(--sport-color);
+}
+
+.category-ent {
+    background: var(--ent-color);
+}
+
+.category-tech {
+    background: var(--tech-color);
+}
+/*---------------------------------*/
+
 
 /*Navigation Styling*/
 #main-nav {
@@ -104,6 +130,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 /*--------------------------------*/
 
+
 /*Showcase Styling*/
 #showcase {
     color: #fff;
@@ -137,3 +164,5 @@ h1, h2, h3, h4, h5, h6 {
     z-index: 1;
 }
 /*--------------------------------*/
+
+/**/

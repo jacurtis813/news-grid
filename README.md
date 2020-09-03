@@ -27,4 +27,6 @@ ________________________________________________________________________________
 4. Continue the css styling for the main navigation within the ladning page. Save all changes. Test that the code is working as designed.
 5. Create the showcase section, formatting the html on the ladning page. Set comments for both the html and the css files. Begin creating the style for the showcase section.
 6. Pick upo on the project build- continue with the styling for the section. Complete the showcase. Save and test the code used for this section.
-7. 
+7. Begin styling the next section of the landing page. Create the styling for the sports button tab using the category class. 
+8. Save all updates within the html and css files. Test the code to make sure that all items are wokring as designed. 
+9. Create the corrected comments and the corrected spacing within both the html and the css files. 
