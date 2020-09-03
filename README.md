@@ -26,4 +26,5 @@ ________________________________________________________________________________
 3. Begin with, continue creating the css styles for the landing page. 
 4. Continue the css styling for the main navigation within the ladning page. Save all changes. Test that the code is working as designed.
 5. Create the showcase section, formatting the html on the ladning page. Set comments for both the html and the css files. Begin creating the style for the showcase section.
-6. 
+6. Pick upo on the project build- continue with the styling for the section. Complete the showcase. Save and test the code used for this section.
+7. 
