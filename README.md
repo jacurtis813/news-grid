@@ -34,4 +34,4 @@ ________________________________________________________________________________
 
 1. Pick up where we left off within the project build- using the grid system to complete the build
 2. Continue creating styles for the index html- landing page of the website
-3. 
+3. Complete creating styles for the buttons on all pages
