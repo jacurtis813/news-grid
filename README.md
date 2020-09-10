@@ -30,3 +30,8 @@ ________________________________________________________________________________
 7. Begin styling the next section of the landing page. Create the styling for the sports button tab using the category class. 
 8. Save all updates within the html and css files. Test the code to make sure that all items are wokring as designed. 
 9. Create the corrected comments and the corrected spacing within both the html and the css files. 
+________________________________________________________________________________________________
+
+1. Pick up where we left off within the project build- using the grid system to complete the build
+2. Continue creating styles for the index html- landing page of the website
+3. 
