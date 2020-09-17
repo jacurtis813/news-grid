@@ -35,3 +35,8 @@ ________________________________________________________________________________
 1. Pick up where we left off within the project build- using the grid system to complete the build
 2. Continue creating styles for the index html- landing page of the website
 3. Complete creating styles for the buttons on all pages
+________________________________________________________________________________________________
+
+1. Continue the project build. Pick up where we left off. 
+2. Begin creating the articles section on the landing page- using section and article tags. This will help set the grid layout for the images. 
+3. Download the images for needed to complete the project build. Create the file for the downloaded images. 
