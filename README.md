@@ -37,6 +37,10 @@ ________________________________________________________________________________
 3. Complete creating styles for the buttons on all pages
 ________________________________________________________________________________________________
 
-1. Continue the project build. Pick up where we left off. 
-2. Begin creating the articles section on the landing page- using section and article tags. This will help set the grid layout for the images. 
-3. Download the images for needed to complete the project build. Create the file for the downloaded images. 
+1. Continue the project build. Pick up where we left off
+2. Begin creating the articles section on the landing page- using section and article tags. This will help set the grid layout for the images
+3. Download the images for needed to complete the project build. Create the file for the downloaded images
+4. Save all updated changes to the project. Correct the photos needed for the project build
+5. Continue with the grid style build for the artices section on the landing page- starting with the images
+6. Set the first image within the articles section, apply the alt tag and test the code for clarity
+7. Create the comments in the html of the landing page, correct the formatting for clean code
