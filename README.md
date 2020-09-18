@@ -46,6 +46,8 @@ ________________________________________________________________________________
 7. Create the comments in the html of the landing page, correct the formatting for clean code
 _______________________________________________________________________________________________
 
-1. Continue the project build. Day seven on the website build. Currently enrolled full time sense the start of August of 2020.
+1. Continue the project build. Day seven on the website build. Currently enrolled full time sense the start of August of 2020
 2. Continue the grid section build, complete the articles section, the sports section
-3. 
+3. Format the sports section and format the technology section
+4. Format the tech article 2 and the sports article 2
+5. Comment all the new html created within the landing page to keep the code easy to read
