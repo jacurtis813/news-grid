@@ -51,3 +51,8 @@ ________________________________________________________________________________
 3. Format the sports section and format the technology section
 4. Format the tech article 2 and the sports article 2
 5. Comment all the new html created within the landing page to keep the code easy to read
+6. Create all formats for all the new article sections within the landing page
+7. Comment new html code. Update the alt tags for each photo to meet the semantic html for all viewers/ readers
+8. Save the changes and updates that have been made to these documents. Continue on tomorrow
+________________________________________________________________________________________________
+
