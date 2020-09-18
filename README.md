@@ -44,3 +44,8 @@ ________________________________________________________________________________
 5. Continue with the grid style build for the artices section on the landing page- starting with the images
 6. Set the first image within the articles section, apply the alt tag and test the code for clarity
 7. Create the comments in the html of the landing page, correct the formatting for clean code
+_______________________________________________________________________________________________
+
+1. Continue the project build. Day seven on the website build. Currently enrolled full time sense the start of August of 2020.
+2. Continue the grid section build, complete the articles section, the sports section
+3. 
