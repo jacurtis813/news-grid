@@ -66,4 +66,6 @@ ________________________________________________________________________________
 7. Complete the format for the layout. Begin creating the styles for each article card
 8. Create multiple styles and reusable, scalable styling points to easily create furtue styles within the same documents 
 9. Save all new changes. Test all new code that has been created/ formatted to make sure that all is working as desingned
-10. 
+10. Complete the main format and the main styling for the focus of the page- next format the footer for the page
+11. Begin with formatting the html code markup to create the footer section
+12. First Section of the footer marakup complete- main format footer complete
