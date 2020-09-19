@@ -60,4 +60,6 @@ ________________________________________________________________________________
 2. Create the styling for the landing page- grid formats that we have created 
 3. Begin the main focus of the layout- creating/ styling the cards for the grid layput
 4. Resource these above sections to build your own grid system layout
-5. 
+5. Place finer stying points in css to create the complete 'main' layout- using grid (this is strictly for learning and understanding of this layout)
+5. Save all new changes. Test all new code that has been created/ formatted to make sure that all is working as desingned
+6. 

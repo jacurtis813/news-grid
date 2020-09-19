@@ -207,4 +207,15 @@ h1, h2, h3, h4, h5, h6 {
 #home-articles .articles-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+}
+
+#home-articles .articles-container > *:first-child,
+#home-articles .articles-container > *:last-child {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+    -webkit-box-align: center;
+            align-items: center;
+    grid-column: 1 / span 2;
 }
