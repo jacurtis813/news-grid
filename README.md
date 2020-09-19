@@ -56,3 +56,8 @@ ________________________________________________________________________________
 8. Save the changes and updates that have been made to these documents. Continue on tomorrow
 ________________________________________________________________________________________________
 
+1. Continue the project build. Continue the self taught route of web-development. Full Time student (Comp Science Program)
+2. Create the styling for the landing page- grid formats that we have created 
+3. Begin the main focus of the layout- creating/ styling the cards for the grid layput
+4. Resource these above sections to build your own grid system layout
+5. 
