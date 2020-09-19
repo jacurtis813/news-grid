@@ -62,4 +62,8 @@ ________________________________________________________________________________
 4. Resource these above sections to build your own grid system layout
 5. Place finer stying points in css to create the complete 'main' layout- using grid (this is strictly for learning and understanding of this layout)
 5. Save all new changes. Test all new code that has been created/ formatted to make sure that all is working as desingned
-6. 
+6. Correct a minor oversight in the grid layout. Using the span trick with grid-column
+7. Complete the format for the layout. Begin creating the styles for each article card
+8. Create multiple styles and reusable, scalable styling points to easily create furtue styles within the same documents 
+9. Save all new changes. Test all new code that has been created/ formatted to make sure that all is working as desingned
+10. 
