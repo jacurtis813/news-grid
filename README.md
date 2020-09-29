@@ -85,4 +85,5 @@ ________________________________________________________________________________
 12. Apply border styling to the links in the footer, apply hover state to the links 
 13. Begin the format for the about page of the website, create the format reusing the content from the home page
 14. Edit the html format accordingly, set each page with the correct formatting
-15. 
+15. Main format, mark up set for the about page, next work on the styling
+16. Begin the styling points for the about page html, 
