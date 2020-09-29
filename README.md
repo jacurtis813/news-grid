@@ -69,3 +69,10 @@ ________________________________________________________________________________
 10. Complete the main format and the main styling for the focus of the page- next format the footer for the page
 11. Begin with formatting the html code markup to create the footer section
 12. First Section of the footer marakup complete- main format footer complete
+_______________________________________________________________________________________________
+
+1. Pick up the project where we left off, continue format for the footer section of the webpage
+2. Complete the landing page full format. Test the code created within the html document
+3. Redo the footer content section, update the formatting to correct any mistakes, test again
+4. Save all changes to the documents. Check the code is working
+5. 
