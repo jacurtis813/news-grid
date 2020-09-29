@@ -75,4 +75,6 @@ ________________________________________________________________________________
 2. Complete the landing page full format. Test the code created within the html document
 3. Redo the footer content section, update the formatting to correct any mistakes, test again
 4. Save all changes to the documents. Check the code is working
-5. 
+5. Use the grid properties to style the format, layout of the landing page
+6. Using the fractions and repeat values for the grid-templates to create the layout
+7. 
