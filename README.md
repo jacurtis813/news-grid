@@ -86,4 +86,7 @@ ________________________________________________________________________________
 13. Begin the format for the about page of the website, create the format reusing the content from the home page
 14. Edit the html format accordingly, set each page with the correct formatting
 15. Main format, mark up set for the about page, next work on the styling
-16. Begin the styling points for the about page html, 
+16. Begin the styling points for the about page html, continue filler content for the format
+17. Complete the personalized input for the about page, complete the format and the styling
+18. Save all changes in the document, test all the mark up and the code
+19. 
