@@ -91,3 +91,4 @@ ________________________________________________________________________________
 18. Save all changes in the document, test all the mark up and the code
 19. Quickly mark up the article page of the website project using bits of the layout from both (home and about)
 20. Create the styling point for the l-heading, test that all code (mark up and styling in css) are working
+21. Finish the mark up for the article page, apply styling points to the article page 
