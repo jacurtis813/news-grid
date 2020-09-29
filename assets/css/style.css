@@ -154,6 +154,17 @@ h1, h2, h3, h4, h5, h6 {
 .p-1 { padding: 1.5rem 0; }
 .p-2 { padding: 2.5rem 0; }
 .p-3 { padding: 3.5rem 0; }
+
+.list li {
+    padding: 0.5rem 0;
+    border-bottom: #555 dotted 1px;
+    width: 90%;
+}
+
+.list li a:hover {
+    color: var(--primary-color) !important;
+}
+
 /*---------------------------------*/
 
 

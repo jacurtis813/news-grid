@@ -82,3 +82,5 @@ ________________________________________________________________________________
 9. Update and correct the styling for the footer section, complete detailed styling points
 10. Clean up the margin on all the paragrphs, create a utility class, reusable content
 11. Comment the html and the css, correct spacing, clean up mark up and code 
+12. Apply border styling to the links in the footer, apply hover state to the links 
+13. 
