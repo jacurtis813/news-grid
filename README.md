@@ -92,3 +92,6 @@ ________________________________________________________________________________
 19. Quickly mark up the article page of the website project using bits of the layout from both (home and about)
 20. Create the styling point for the l-heading, test that all code (mark up and styling in css) are working
 21. Finish the mark up for the article page, apply styling points to the article page 
+22. Complete all html format for all three pages that make up the website project build
+23. Correct the formatting, apply comments to each page around all new content
+24. Begin to create the detailed styling points for all three pages, fine details
