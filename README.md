@@ -79,3 +79,5 @@ ________________________________________________________________________________
 6. Using the fractions and repeat values for the grid-templates to create the layout
 7. Correct the html format, apply the copyright and all rights reserved tab in the format
 8. Correct the last styling point to fit the copyrights mark tab for the webpage
+9. Update and correct the styling for the footer section, complete detailed styling points
+10. 
