@@ -95,3 +95,6 @@ ________________________________________________________________________________
 22. Complete all html format for all three pages that make up the website project build
 23. Correct the formatting, apply comments to each page around all new content
 24. Begin to create the detailed styling points for all three pages, fine details
+25. Complete all the styling and all the format for the website project build- test all mark up
+26. Save all changes to each document. Next we will create the responsive media queries
+__________________________________________________________________________________________________
