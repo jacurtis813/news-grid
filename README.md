@@ -89,4 +89,5 @@ ________________________________________________________________________________
 16. Begin the styling points for the about page html, continue filler content for the format
 17. Complete the personalized input for the about page, complete the format and the styling
 18. Save all changes in the document, test all the mark up and the code
-19. 
+19. Quickly mark up the article page of the website project using bits of the layout from both (home and about)
+20. Create the styling point for the l-heading, test that all code (mark up and styling in css) are working

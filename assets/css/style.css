@@ -126,8 +126,8 @@ h1, h2, h3, h4, h5, h6 {
     color: #fff;
 }
 
-.bg-light {
-    backgorund: var(--secondary-color);
+.bg-secondary {
+    background: var(--secondary-color);
     color: #fff;
 }
 
@@ -154,6 +154,10 @@ h1, h2, h3, h4, h5, h6 {
 .p-1 { padding: 1.5rem 0; }
 .p-2 { padding: 2.5rem 0; }
 .p-3 { padding: 3.5rem 0; }
+
+.l-heading {
+    font-size: 3rem;
+}
 
 .list li {
     padding: 0.5rem 0;
