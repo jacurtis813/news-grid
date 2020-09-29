@@ -1,4 +1,5 @@
 /* Stylesheet setup for the news-grid project */
+/*-------------------------------*/
 :root {
     --primary-color: #c72727;
     --secondary-color: #f99500;
@@ -34,6 +35,10 @@ ul {
     list-style: none;
 }
 
+p {
+    margin: 0.5rem 0;
+}
+
 img {
     width: 100%;
 }
@@ -47,6 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /*Utility Styling*/
+/*-------------------------------*/
 .container {
     max-width: var(--max-width);
     margin: auto;
@@ -152,6 +158,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /*Navigation Styling*/
+/*-------------------------------*/
 #main-nav {
     background: #fff;
     position: -webkit-sticky;
@@ -205,6 +212,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /*Showcase Styling*/
+/*-------------------------------*/
 #showcase {
     color: #fff;
     background: #333;
@@ -242,7 +250,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 /*--------------------------------*/
 
-/* Home Articles */
+
+/* Articles Styling */
+/*-------------------------------*/
 #home-articles .articles-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -262,9 +272,11 @@ h1, h2, h3, h4, h5, h6 {
 #home-articles .articles-container > *:last-child {
     grid-column: 2 / span 2;
 }
-/*----------------------------------*/
+/*-------------------------------*/
 
-/* footer */
+
+/* Footer Styling */
+/*-------------------------------*/
 #main-footer {
     background: var(--dark-color);
     color: #fff;
@@ -296,5 +308,9 @@ h1, h2, h3, h4, h5, h6 {
     width: 90%;
     padding: 0.5rem;
     margin-bottom: 0.5rem;
-    
 }
+
+#main-footer .footer-container input[type='submit'] {
+    width: 90%;
+}
+/*-------------------------------*/
