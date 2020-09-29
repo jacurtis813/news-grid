@@ -83,4 +83,6 @@ ________________________________________________________________________________
 10. Clean up the margin on all the paragrphs, create a utility class, reusable content
 11. Comment the html and the css, correct spacing, clean up mark up and code 
 12. Apply border styling to the links in the footer, apply hover state to the links 
-13. 
+13. Begin the format for the about page of the website, create the format reusing the content from the home page
+14. Edit the html format accordingly, set each page with the correct formatting
+15. 
