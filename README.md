@@ -77,4 +77,5 @@ ________________________________________________________________________________
 4. Save all changes to the documents. Check the code is working
 5. Use the grid properties to style the format, layout of the landing page
 6. Using the fractions and repeat values for the grid-templates to create the layout
-7. 
+7. Correct the html format, apply the copyright and all rights reserved tab in the format
+8. Correct the last styling point to fit the copyrights mark tab for the webpage

@@ -281,4 +281,10 @@ h1, h2, h3, h4, h5, h6 {
 #main-footer .footer-container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    grid-gap: 1.5rem;
+}
+
+#main-footer .footer-container > *:last-child {
+    background: #444;
+    grid-column: 1 / span 4;
 }
